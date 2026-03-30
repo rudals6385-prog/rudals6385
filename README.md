@@ -13,6 +13,10 @@
 - 🏆 **상명대학교 CISC Career Day 동상 수상**
 
 ## 🛠 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ### 📟 Embedded MCU & Firmware
 - **Hardware:** STM32, ATmega128, Arduino
 - **Peripherals:** GPIO, Timer, ADC, UART, I2C, SPI
