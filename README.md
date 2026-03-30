@@ -57,7 +57,7 @@
 
 * **Key Tech:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=ethernet&logoColor=white)![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-* **핵심 알고리즘:** FreeRTOS 기반 우선순위 스케줄링, Queue를 활용한 데이터 무결성 확보 TCP/IP (영상 전송), CAN Bus (차량 내부 제어 신호 전달)
+* **핵심 알고리즘:** FreeRTOS 기반 우선순위 스케줄링, 데이터 무결성 확보를위한 TCP/IP , CAN Bus (차량 내부 제어 신호 전달)
 ---
 
 ### 🛡️ **[지능형물체감지시스템](https://km-coding.tistory.com/45)** |👥 인텔 엣지 AI SW아카데미 팀프로젝트
@@ -65,5 +65,5 @@
 
 * **Key Tech:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=ethernet&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   
-* **핵심 알고리즘:** 극좌표계 데이터를 활용한 조준각 최적화 로직 구현
+* **핵심 알고리즘:** 역탄젠트연산을통한 좌표계산 조준각 최적화 로직 구현
 ---
