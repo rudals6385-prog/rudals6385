@@ -61,9 +61,6 @@
 > *초음파 레이더로 지형을 스캔하여 침입자를 감지하고, 터렛이 자동으로 조준/사격하는 지능형 보안 시스템입니다. STM32(FreeRTOS) 기반의 정밀 제어 유닛들과 라즈베리파이 중앙 서버(Socket/DB/Web)가 유기적으로 연동되어, 실시간 탐지 정보를 웹 대시보드와 OLED 디스플레이로 시각화합니다.*
 
 * **Key Tech:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=ethernet&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
----
-
-
-* **Key Tech:** arduino, Fine Dust Sensor, Motor Control
-* **Achivement:** 🏆 ICEF 2024 Merit Prize 수상
+  
+* **핵심 알고리즘:** 극좌표계 데이터를 활용한 조준각 최적화 로직 구현
 
