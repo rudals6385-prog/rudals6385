@@ -18,8 +18,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Verilog](https://img.shields.io/badge/Verilog%20HDL-%23F16622.svg?style=for-the-badge&logo=verilog&logoColor=white)
 
+
 ### 📟 Embedded MCU & Firmware
-- **Hardware:** STM32, ATmega128, Arduino
+- **Hardware | STM32, ATmega128, Arduino
 - **Peripherals:** GPIO, Timer, ADC, UART, I2C, SPI
 - **Control:** Sensor Data Acquisition, Motor/Buzzer/LED Control
 - **RTOS:** FreeRTOS (Task configuration & Scheduling)
@@ -27,7 +28,7 @@
 - ### 🐧 Embedded Linux & BSP
 - **OS/Kernel:** Linux BSP, Device Tree/Overlay
 - **Communication:** MCP2515 (CAN Protocol) configuration
-- **Projects:** Smart CCTV
+- **Projects | 스마트 CCTV 시스템 설계 📹
 
 ### 📡 Network & Connectivity
 - **Protocols:** UDP/TCP, Server-Node communication
