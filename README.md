@@ -12,12 +12,35 @@
 - 🏆 **ICEF 2024 Merit Prize 수상**
 - 🏆 **상명대학교 CISC Career Day 동상 수상**
 
-### 🛠 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-blue?style=flat&logo=stmicroelectronics)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## 🛠 Tech Stack
+### 📟 Embedded MCU & Firmware
+- **Hardware:** STM32, ATmega128, Arduino
+- **Peripherals:** GPIO, Timer, ADC, UART, I2C, SPI
+- **Control:** Sensor Data Acquisition, Motor/Buzzer/LED Control
+- **RTOS:** FreeRTOS (Task configuration & Scheduling)
 
+- ### 🐧 Embedded Linux & BSP
+- **OS/Kernel:** Linux BSP, Device Tree/Overlay
+- **Communication:** MCP2515 (CAN Protocol) configuration
+- **Projects:** Smart CCTV
+
+### 📡 Network & Connectivity
+- **Protocols:** UDP/TCP, Server-Node communication
+- **Wireless:** ESP8266/ESP01 Wi-Fi 기반 프로토콜 설계
+- **Projects:** 지능형 물체 감지 시스템
+
+### ⚙️ Algorithm & Architecture
+- **Languages:** C++, C, Verilog HDL
+- **Knowledge:** Data Structures, Algorithm Design, Code Refactoring
+- **Frameworks:** ROS2
+- **Hardware Design:** 8-bit Adder, Single-cycle CPU Design (FPGA)
+
+### 🔌 Sensors & Actuators Integration
+- **Sensors:** PIR, Temperature/Humidity, RFID, Fine Dust Sensor
+- **Actuators/Output:** Servo Motor, Relay, LCD/OLE
+
+  
+- 
 
 
 ## 💡Highlighted Projects 
